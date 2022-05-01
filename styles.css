@@ -1,7 +1,13 @@
 /* comments */
+/* import fonts into css via 
+  @import url('https://...');
+  can then use that via name as mormal
+  */
+
+@import url('https://fonts.googleapis.com/css2?family=Space+Mono&display=swap');
 
 *{
-  font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  font-family:'Space Mono', 'Courier New', Courier, monospace;
   color: rgb(241, 240, 219);
   background-color:rgb(23, 26, 51);
 }

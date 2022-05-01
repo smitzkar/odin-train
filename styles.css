@@ -1,0 +1,11 @@
+/* comments */
+
+*{
+  font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  color: rgb(241, 240, 219);
+  background-color:rgb(23, 26, 51);
+}
+
+p{
+  color: white;
+}
